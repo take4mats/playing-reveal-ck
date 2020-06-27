@@ -1,0 +1,6 @@
+theme: "solarized" # Themes: black, white, league, sky, beige, simple, serif, blood, night, moon, solarized
+transition: "page" # none/fade/slide/convex/concave/zoom/page
+title: "Playing reveal-ck" # <title>
+revealjs_config: # reveal.js用の個別設定（厳密には上の、themeもtransitionもreveal.jsの設定）
+  autoSlide: 5000
+  loop: true
