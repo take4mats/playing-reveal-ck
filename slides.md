@@ -1,6 +1,6 @@
 # Playing with reveal-ck
 
-sindle markdown file, all you need to prepare!
+single markdown file, all you need to prepare!
 
 ---
 
